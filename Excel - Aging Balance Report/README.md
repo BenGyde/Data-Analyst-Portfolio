@@ -6,6 +6,9 @@ The end user has 2 seperate reports, both include data he needs to complete his 
 ### Goal:
 Combine both reports, clean and transform the data as requested.
 Create a report that displays the most crutial customer data like Overdues, the status, Banding and the account owner.
+Add slicers for easy filtering
+
+![Screen Recording 2025-08-06 132206](https://github.com/user-attachments/assets/bbc834f2-2c24-4f1c-b660-89d1a9f8e701)
 
 ### File reference
 
