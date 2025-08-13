@@ -20,3 +20,6 @@ Add slicers for easy filtering
 | `Sample SF data.csv`      | `CSV` | Sample data based on a Salesforce report |
 
 <img width="1550" height="723" alt="Aging Balance Report" src="https://github.com/user-attachments/assets/8a16e959-acaa-42ba-9180-acfbb056be0c" />
+
+### Applied steps to transform and clean the data
+<img width="256" height="366" alt="Applied steps" src="https://github.com/user-attachments/assets/e27e711c-af06-445a-a73b-51caebf8ea97" />
