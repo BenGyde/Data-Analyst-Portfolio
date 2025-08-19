@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio! This repository showcases a selection of data analysis projects, primarily using Microsoft Excel. Each project demonstrates key analytical skills, data visualization techniques, and business insights relevant to real-world scenarios.
+This repository showcases a selection of data analysis projects, primarily using Microsoft Excel. Each project demonstrates key analytical skills, data visualization techniques, and business insights relevant to real-world scenarios.
 
 ## Table of Contents
 
