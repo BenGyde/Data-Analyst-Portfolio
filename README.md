@@ -8,3 +8,5 @@
 [Excel - Aging Balance Report](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20Direct%20Debit%20Report)
 <img width="1657" height="719" alt="Overview" src="https://github.com/user-attachments/assets/6e6de6fa-1a48-4c26-9df5-1b8ba9230bec" />
 
+[Excel - Aging Balance Report](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20Block%20History%20Report)
+<img width="1763" height="727" alt="Overview" src="https://github.com/user-attachments/assets/694b42c3-b42f-4b94-9d58-1d33256f82fb" />
