@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-This repository showcases a selection of data analysis projects, primarily using Microsoft Excel. Each project demonstrates key analytical skills, data visualization techniques, and business insights relevant to real-world scenarios.
+This repository showcases a selection of data analysis projects, primarily using Microsoft Excel and Power BI. Each project demonstrates key analytical skills, data visualization techniques, and business insights.
 
 ## Table of Contents
 
@@ -8,6 +8,8 @@ This repository showcases a selection of data analysis projects, primarily using
   - [Aging Balance Report](#aging-balance-report)
   - [Direct Debit Report](#direct-debit-report)
   - [Block History Report](#block-history-report)
+- [Power BI Projects](#power-bi-projects)
+  - [Aging Balance Report](#power-bi---aging-balance-report)
 
 ## Excel Projects
 
@@ -38,5 +40,17 @@ This report tracks direct debit transactions, providing summaries and insights i
 
 **Description:**  
 Analyzes block events over time, identifying patterns and trends. Useful for operational reporting and historical analysis.
+
+---
+
+## Power BI Projects
+
+### Power BI - Aging Balance Report
+[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20Bi%20-%20Aging%20Balance%20Report)
+
+<img width="1274" height="714" alt="Overview" src="https://github.com/user-attachments/assets/9ca6cf81-1ae9-4e67-949f-bce8042d9fb5" />
+
+**Description:**  
+A dynamic Power BI dashboard analyzing outstanding balances by aging periods. This interactive report enables exploration of receivables, overdue accounts, and provides actionable business insights through data visualization.
 
 ---
