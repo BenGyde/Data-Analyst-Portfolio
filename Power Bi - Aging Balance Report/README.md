@@ -1,7 +1,5 @@
 # Aging Balance Report using Power BI
 
-<img width="1274" height="714" alt="Overview" src="https://github.com/user-attachments/assets/4b8f738c-509e-4dcd-a5ef-92256653172b" />
-
 ## Problem statement
 
 End users receive two separate reports, both containing essential data needed for their workflow. 
