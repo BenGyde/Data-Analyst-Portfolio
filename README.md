@@ -10,6 +10,7 @@ This repository showcases a selection of data analysis projects, primarily using
   - [Block History Report](#block-history-report)
 - [Power BI Projects](#power-bi-projects)
   - [Aging Balance Report](#power-bi---aging-balance-report)
+  - [Block History Report](#power-bi---block-history-report)
 
 ## Excel Projects
 
@@ -52,5 +53,15 @@ Analyzes block events over time, identifying patterns and trends. Useful for ope
 
 **Description:**  
 A dynamic Power BI dashboard analyzing outstanding balances by aging periods. This interactive report enables exploration of receivables, overdue accounts, and provides actionable business insights through data visualization.
+
+---
+
+### Power BI - Block History Report
+[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20BI%20-%20Block%20History%20Report)
+
+<img width="1275" height="715" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/5535ad76-af34-4485-8af2-5543bc3d67f9" />
+
+**Description:**  
+A Power BI dashboard that analyzes block history events over time, providing interactive insights into patterns, trends, and operational performance. Useful for business users seeking to understand historical block events and their impacts.
 
 ---
