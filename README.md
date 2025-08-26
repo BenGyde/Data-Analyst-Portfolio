@@ -47,7 +47,7 @@ Analyzes block events over time, identifying patterns and trends. Useful for ope
 ## Power BI Projects
 
 ### Power BI - Aging Balance Report
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20Bi%20-%20Aging%20Balance%20Report)
+[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20BI%20-%20Aging%20Balance%20Report)
 
 <img width="1274" height="714" alt="Overview" src="https://github.com/user-attachments/assets/9ca6cf81-1ae9-4e67-949f-bce8042d9fb5" />
 
