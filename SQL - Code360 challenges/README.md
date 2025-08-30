@@ -8,4 +8,7 @@
 
 | Index | Challenge Name           | Solution                                                                                                   |
 |-------|-------------------------|------------------------------------------------------------------------------------------------------------|
-| 1     | IMDb Metacritic Rating  | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/01%20-%20%20IMDb%20Metacritic%20Rating.sql) |
+| 1     | IMDb Metacritic Rating  | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/01%20-%20IMDb%20Metacritic%20Rating.sql) |
+| 2     | IMDb Max Weighted Rating| [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/02%20-%20IMDb%20Max%20Weighted%20Rating.sql) |
+| 3     | Students DB             | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/03%20-%20Students%20DB.sql) |
+| 4     | Big Countries           | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/04%20-%20Big%20Countries.sql) |
