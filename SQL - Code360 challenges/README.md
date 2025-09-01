@@ -13,3 +13,4 @@
 | 3     | Students DB             | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/03%20-%20Students%20DB.sql) |
 | 4     | Big Countries           | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/04%20-%20Big%20Countries.sql) |
 | 5     | Sales Executive         | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/05%20-%20Sales%20Executive.sql) |
+| 6     | Director's Actor        | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/06%20-%20Director's%20Actor.sql) |
