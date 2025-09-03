@@ -14,4 +14,5 @@
 | 4     | Big Countries           | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/04%20-%20Big%20Countries.sql) |
 | 5     | Sales Executive         | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/05%20-%20Sales%20Executive.sql) |
 | 6     | Director's Actor        | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/06%20-%20Director's%20Actor.sql) |
-| 7     | Combine Two Tables       | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/07%20-%20Combine%20Two%20Tables.sql) |
+| 7     | Combine Two Tables      | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/07%20-%20Combine%20Two%20Tables.sql) |
+| 8     | Swap Salary             | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/08%20-%20Swap%20Salary.sql) |
