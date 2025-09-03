@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-This repository showcases a selection of data analysis projects, primarily using Microsoft Excel and Power BI. Each project demonstrates key analytical skills, data visualization techniques, and business insights.
+This repository showcases a selection of data analysis projects, primarily using Microsoft Excel and Power BI. Each project demonstrates key analytical skills, data visualization techniques, and business insights. Power Apps solutions are also included for business process improvement.
 
 ## Table of Contents
 
@@ -11,6 +11,8 @@ This repository showcases a selection of data analysis projects, primarily using
 - [Power BI Projects](#power-bi-projects)
   - [Aging Balance Report](#power-bi---aging-balance-report)
   - [Block History Report](#power-bi---block-history-report)
+- [Power Apps Solutions](#power-apps-solutions)
+  - [Task Manager](#power-apps-task-manager)
 
 ## Excel Projects
 
@@ -52,7 +54,7 @@ Analyzes block events over time, identifying patterns and trends. Useful for ope
 <img width="1274" height="714" alt="Overview" src="https://github.com/user-attachments/assets/9ca6cf81-1ae9-4e67-949f-bce8042d9fb5" />
 
 **Description:**  
-A dynamic Power BI dashboard analyzing outstanding balances by aging periods. This interactive report enables exploration of receivables, overdue accounts, and provides actionable business insights through data visualization.
+A dynamic Power BI dashboard analyzing outstanding balances by aging periods. This interactive report enables exploration of receivables, overdue accounts, and provides actionable business insights that drive collections and cash flow management.
 
 ---
 
@@ -62,6 +64,19 @@ A dynamic Power BI dashboard analyzing outstanding balances by aging periods. Th
 <img width="1275" height="715" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/5535ad76-af34-4485-8af2-5543bc3d67f9" />
 
 **Description:**  
-A Power BI dashboard that analyzes block history events over time, providing interactive insights into patterns, trends, and operational performance. Useful for business users seeking to understand historical block events and their impacts.
+A Power BI dashboard that analyzes block history events over time, providing interactive insights into patterns, trends, and operational performance. Useful for business users seeking to understand historical context and improve operational decision-making.
+
+---
+
+## Power Apps Solutions
+
+### Power Apps Task Manager
+[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20Apps%20-%20Task%20manager)
+
+<img width="1088" height="610" alt="App screenshot" src="https://github.com/user-attachments/assets/c721e6ef-36e5-484b-b903-87f3af4f6ab7" />
+
+**Description:**  
+A Power Apps-based solution designed for teams to track tasks, deadlines, and assignments. 
+This tool improves accountability and organization, ensuring teams never miss deadlines and always know task statuses.
 
 ---
