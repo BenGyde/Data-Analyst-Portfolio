@@ -1,6 +1,6 @@
 # Power Apps Task Manager
 
-<img width="1084" height="611" alt="App screenshot" src="https://github.com/user-attachments/assets/d8caf68f-5f74-4eda-a95c-2cdf2b34822f" />
+<img width="1088" height="610" alt="App screenshot" src="https://github.com/user-attachments/assets/c721e6ef-36e5-484b-b903-87f3af4f6ab7" />
 
 ## Problem Statement
 
