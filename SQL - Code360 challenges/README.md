@@ -16,3 +16,4 @@
 | 6     | Director's Actor        | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/06%20-%20Director's%20Actor.sql) |
 | 7     | Combine Two Tables      | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/07%20-%20Combine%20Two%20Tables.sql) |
 | 8     | Swap Salary             | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/08%20-%20Swap%20Salary.sql) |
+| 9     | Rank Scores             | [Solution](https://github.com/BenGyde/Data-Analyst-Portfolio/blob/main/SQL%20-%20Code360%20challenges/Easy/09%20-%20Rank%20Scores.sql) |
