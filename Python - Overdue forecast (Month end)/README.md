@@ -10,7 +10,6 @@ Finance teams need visibility into future overdue amounts to manage cash flow an
 - **Automated Forecasting**: Applies SARIMAX time-series models to predict overdue amounts for each country.
 - **Model Selection**: Chooses the best model configuration using validation metrics (MAPE and SMAPE).
 - **Actionable Outputs**: Generates forecast CSV files with confidence intervals and a summary of model performance.
-- **Retro vibes**: Based on the iconic windows 95 look to boost productivity
 
 ## Example Screenshot
 
