@@ -9,6 +9,7 @@ As digital solutions grow across teams, it's essential to maintain a centralized
 - **Smart Filtering**: A built-in VBA-powered search bar allows users to quickly locate projects by keyword.
 - **Maintenance View**: A reset button filters the table to show only actively maintained projects by default.
 - **Data Sync**: A refresh button updates the table with any new entries and saves manual edits to ensure data integrity.
+- **Retro vibes**: Based on the iconic windows 95 look to boost productivity
 
 ## Example Screenshot
 
