@@ -6,13 +6,15 @@ This repository showcases a selection of data analysis projects, primarily using
 
 - [Excel Projects](#excel-projects)
   - [Aging Balance Report](#aging-balance-report)
-  - [Direct Debit Report](#direct-debit-report)
   - [Block History Report](#block-history-report)
+  - [Direct Debit Report](#direct-debit-report)
+  - [VBA - Project Inventory](#vba---project-inventory)
+- [Power Apps Solutions](#power-apps-solutions)
+  - [Bulk Customer Filtering & CSV Export](#bulk-customer-filtering--csv-export) 
+  - [Task Manager](#power-apps-task-manager)
 - [Power BI Projects](#power-bi-projects)
   - [Aging Balance Report](#power-bi---aging-balance-report)
   - [Block History Report](#power-bi---block-history-report)
-- [Power Apps Solutions](#power-apps-solutions)
-  - [Task Manager](#power-apps-task-manager)
 
 ## Excel Projects
 
@@ -43,6 +45,16 @@ This report tracks direct debit transactions, providing summaries and insights i
 
 **Description:**  
 Analyzes block events over time, identifying patterns and trends. Useful for operational reporting and historical analysis.
+
+---
+
+### VBA - Project Inventory
+[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20VBA%20-%20Project%20Inventory)
+
+<img width="1868" height="709" alt="Project Inventory" src="https://github.com/user-attachments/assets/a1348a81-384e-45a8-9553-67bf32216429" />
+
+**Description:**  
+Tracks who built what, for whom, and the current status helps ensure continuity, accountability, and efficient support—especially for critical tools.
 
 ---
 
@@ -78,5 +90,15 @@ A Power BI dashboard that analyzes block history events over time, providing int
 **Description:**  
 A Power Apps-based solution designed for teams to track tasks, deadlines, and assignments. 
 This tool improves accountability and organization, ensuring teams never miss deadlines and always know task statuses.
+
+---
+
+### Bulk Customer Filtering & CSV Export
+[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20Apps%20-%20Power%20BI%20-%20Bulk%20Filter%20and%20CSV%20Exporter)
+
+<img width="1403" height="789" alt="Dashboard" src="https://github.com/user-attachments/assets/9df02c52-514b-4af3-864b-ac45406ff7a3" />
+
+**Description:**  
+A Power Apps-based solution enbeded in Power Bi designed for teams to track filter accounts and export to .csv with the press of a button
 
 ---
