@@ -15,6 +15,8 @@ This repository showcases a selection of data analysis projects, primarily using
 - [Power BI Projects](#power-bi-projects)
   - [Aging Balance Report](#power-bi---aging-balance-report)
   - [Block History Report](#power-bi---block-history-report)
+- [Python Projects](#python-projects)
+  - [Overdue Forecast](#overdue-forecast)
 
 ## Excel Projects
 
@@ -102,3 +104,14 @@ This tool improves accountability and organization, ensuring teams never miss de
 A Power Apps-based solution enbeded in Power Bi designed for teams to track filter accounts and export to .csv with the press of a button
 
 ---
+
+
+## Python Projects
+
+### Overdue Forecast
+[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20Overdue%20forecast%20(Month%20end))
+
+<img width="1274" height="715" alt="Dashboard" src="https://github.com/user-attachments/assets/29cfc579-c878-4309-aaa8-446e38e0c23e" />
+
+**Description:**  
+Finance teams need visibility into future overdue amounts to manage cash flow and credit risk. Raw invoice-level data is difficult to analyze directly, and manual forecasting is time-consuming and inconsistent.
