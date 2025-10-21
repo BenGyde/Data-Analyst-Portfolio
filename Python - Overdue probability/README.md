@@ -1,4 +1,4 @@
-# Overdue classification (Logistic Regression)
+# Overdue probability (Logistic Regression)
 
 ## Problem statement
 
