@@ -1,4 +1,4 @@
-# Overdue forecast (Month end)
+# Overdue forecast (SARIMAX)
 
 ## Problem statement
 
