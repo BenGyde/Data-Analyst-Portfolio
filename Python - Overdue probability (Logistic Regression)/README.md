@@ -2,7 +2,7 @@
 
 ## Problem statement
 
-Finance teams need to identify which invoices are likely to become overdue to proactively manage credit risk and collections. Manual rules are often simplistic and hard to maintain, while black-box models lack transparency.
+Finance teams need to identify which invoices are likely to become overdue to proactively manage credit risk and collections. Manual rules are often simplistic and hard to maintain.
 
 ## Solution & Features
 
