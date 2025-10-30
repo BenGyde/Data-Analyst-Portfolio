@@ -1,4 +1,4 @@
-# Power Apps Task Tracker
+Task Tracker
 
 <img width="1337" height="752" alt="Screenshot 2025-10-30 115247" src="https://github.com/user-attachments/assets/f5bc58dd-7429-4031-94b2-a1a9044e6380" />
 
