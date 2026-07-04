@@ -6,7 +6,6 @@
   <a href="mailto:bengyde@gmail.com"><img src="https://img.shields.io/badge/Email-bengyde%40gmail.com-EA4335?style=for-the-badge" alt="Email"></a>
   <img src="https://img.shields.io/badge/Krak%C3%B3w%2C_Poland-grey?style=for-the-badge" alt="Kraków, Poland">
 </p>
-
 ## Tech Stack
  
 <p align="center">
@@ -19,7 +18,6 @@
   <img src="https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge" alt="Alteryx">
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge" alt="SAP">
 </p>
-
 ## About This Portfolio
  
 Real-world inspired **finance & operations analytics** projects covering the full spectrum:
@@ -44,6 +42,7 @@ Real-world inspired **finance & operations analytics** projects covering the ful
 | 8 | [Bulk Filter & CSV Export](#bulk-customer-filtering--csv-export) | Power Apps + Power BI | One-click bulk account filtering and export |
 | 9 | [Overdue Forecast](#overdue-forecast-sarimax) | Python (SARIMAX) | Predicting future overdue amounts for cash flow |
 | 10 | [Overdue Probability](#overdue-probability-logistic-regression) | Python (ML) | Flagging invoices likely to become overdue |
+| 11 | [HR Analytics Dashboard](#hr-analytics-dashboard) | Python (Dash) | Live HR analytics across attendance, leave, and comp |
  
  
 ## Excel Projects
@@ -181,6 +180,19 @@ Real-world inspired **finance & operations analytics** projects covering the ful
 **Skills:** Python · scikit-learn · Classification modeling · Feature engineering · Risk scoring
  
 [**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20Overdue%20probability%20(Logistic%20Regression))
+ 
+---
+ 
+### HR Analytics Dashboard
+ 
+<img width="1495" alt="Animation" src="https://github.com/user-attachments/assets/2b379ebd-e461-4731-b275-f019bbe4ebda"/>
+
+**Business problem:** HR and finance teams track attendance, leave, and performance across separate spreadsheets, with no live consolidated view.
+**Solution:** A Python web app (Plotly Dash) with a live location filter — KPIs, attendance trend, headcount, leave requests, compensation, and performance all update instantly.
+ 
+**Skills:** Python · Plotly Dash · pandas · Interactive callbacks · Synthetic data generation
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20Pulse%20HR%20Dashboard)
  
 ---
  
