@@ -1,0 +1,181 @@
+employee_id,name,department,role,job_level,location,hire_date,monthly_salary_pln,monthly_language_allowance_pln,monthly_bonus_base_pln,status
+E1000,Ben Smith,Sales,Sales Ops Analyst,Senior Staff,Krakow,2025-06-09,15700,0,1600,Active
+E1001,Piotr Evans,Engineering,QA Engineer,Senior Staff,Krakow,2023-06-08,16300,1500,800,Active
+E1002,Nina Visser,HR,Recruiter,Middle Staff,Krakow,2025-02-23,9500,0,880,Active
+E1003,Femke Roberts,Sales,Business Developer,Junior Staff,Warsaw,2024-03-02,8700,1500,600,Active
+E1004,Kasia Meijer,Finance Operations,Team Lead,Junior Staff,Krakow,2026-02-22,7100,2500,600,Active
+E1005,Clara Visser,IT Support,IT Support Specialist,Middle Staff,Warsaw,2022-05-22,12300,2500,1320,Active
+E1006,Marek Mulder,Sales,Sales Executive,Middle Staff,Amsterdam,2020-09-18,9500,0,550,Active
+E1007,Magda Wilson,HR,Recruiter,Middle Staff,Warsaw,2019-02-01,10200,2000,1320,Terminated
+E1008,Sem Walker,Finance Operations,Team Lead,Middle Staff,Krakow,2024-07-13,10300,0,550,Active
+E1009,Anna Visser,Engineering,Fullstack Developer,Junior Staff,Krakow,2018-08-10,6300,2500,900,Active
+E1010,Tomek Meijer,Engineering,Backend Developer,Senior Staff,Krakow,2019-02-28,14100,1500,800,Active
+E1011,Femke Smith,Marketing,Designer,Junior Staff,Krakow,2024-10-28,7200,0,375,Terminated
+E1012,Ethan Lewandowski,Customer Success,Support Specialist,Middle Staff,Warsaw,2023-04-13,11000,2000,550,Active
+E1013,Kasia Wisniewski,HR,People Analyst,Middle Staff,Krakow,2024-05-26,9900,0,1320,Active
+E1014,Ewa Wilson,Engineering,Fullstack Developer,Lead,Warsaw,2019-10-31,16600,0,2520,Active
+E1015,Mia Evans,Finance Operations,AR Specialist,Senior Staff,Krakow,2020-04-12,15800,0,1920,Active
+E1016,Noor Lewandowski,Customer Success,Account Manager,Middle Staff,Krakow,2025-11-12,11300,0,550,Active
+E1017,James Roberts,Finance Operations,Team Lead,Middle Staff,Krakow,2023-06-26,10900,3000,1320,Active
+E1018,Femke Taylor,HR,Recruiter,Middle Staff,Krakow,2022-08-08,13300,0,1100,Active
+E1019,Noor Mulder,Customer Success,Support Specialist,Senior Staff,Amsterdam,2021-09-11,13700,2500,1920,Active
+E1020,Daan Mulder,Sales,Sales Ops Analyst,Junior Staff,Amsterdam,2020-09-18,6000,0,375,Active
+E1021,Ola Wojcik,Engineering,Backend Developer,Lead,Warsaw,2020-04-03,21000,2500,2100,Active
+E1022,Milan Lewandowski,IT Support,System Administrator,Middle Staff,Remote,2021-12-12,11400,0,1100,Active
+E1023,Clara Wilson,Marketing,Content Specialist,Junior Staff,Krakow,2020-09-24,6000,0,375,Active
+E1024,Ewa Zielinski,Sales,Sales Executive,Senior Staff,Krakow,2021-02-13,16400,0,1600,Active
+E1025,Leo Roberts,Finance Operations,Collections Analyst,Lead,Krakow,2020-08-09,18300,0,1680,Active
+E1026,Kasia Lewandowski,Engineering,QA Engineer,Middle Staff,Warsaw,2020-04-09,12700,0,880,Active
+E1027,Emily Evans,Finance Operations,AR Specialist,Junior Staff,Krakow,2026-02-02,8900,0,750,Terminated
+E1028,Kasia Jansen,Finance Operations,Team Lead,Middle Staff,Remote,2024-01-17,11500,0,1100,Active
+E1029,Marek Smith,Sales,Sales Ops Analyst,Junior Staff,Remote,2026-01-02,7900,0,375,Active
+E1030,Ola Kowalski,Sales,Business Developer,Junior Staff,Warsaw,2025-08-21,6800,0,900,Active
+E1031,Leo Lewandowski,IT Support,IT Support Specialist,Junior Staff,Krakow,2025-02-15,7300,0,375,Active
+E1032,Mia Bakker,Engineering,Backend Developer,Senior Staff,Krakow,2019-09-26,15400,0,1920,Active
+E1033,Sanne Wojcik,Engineering,QA Engineer,Junior Staff,Krakow,2022-02-21,7400,0,750,Active
+E1034,Anna Nowak,Engineering,Data Engineer,Junior Staff,Krakow,2020-08-17,8200,0,750,Active
+E1035,Nina Mulder,Finance Operations,AR Specialist,Senior Staff,Amsterdam,2023-02-21,12400,1500,1280,Active
+E1036,Iris Smit,Finance Operations,Finance Automation Developer,Middle Staff,Warsaw,2022-11-13,11400,1500,880,Active
+E1037,Kasia Wisniewski,Engineering,QA Engineer,Lead,Krakow,2022-10-01,21900,0,2100,Active
+E1038,Daan Wojcik,Finance Operations,AR Specialist,Middle Staff,Krakow,2025-04-19,9800,0,1320,Active
+E1039,Marek Kaminski,Sales,Sales Executive,Middle Staff,Warsaw,2019-03-08,9500,0,550,Active
+E1040,Ben Meijer,Engineering,Backend Developer,Senior Staff,Warsaw,2021-11-21,15400,1500,1920,Active
+E1041,Clara Evans,HR,Recruiter,Middle Staff,Warsaw,2022-12-26,11200,0,550,Active
+E1042,Piotr Thomas,Sales,Business Developer,Senior Staff,Krakow,2022-04-21,16800,3000,800,Active
+E1043,Clara Kowalski,Engineering,Fullstack Developer,Junior Staff,Amsterdam,2022-07-20,7900,0,375,Active
+E1044,Femke Walker,HR,HR Generalist,Middle Staff,Amsterdam,2019-11-28,12100,2500,880,Active
+E1045,Sem De Vries,HR,HR Generalist,Middle Staff,Krakow,2018-08-07,11600,0,1320,Active
+E1046,Leo Meijer,Engineering,Frontend Developer,Middle Staff,Remote,2020-10-22,11800,0,550,Active
+E1047,Anna Bakker,Engineering,Fullstack Developer,Junior Staff,Krakow,2019-10-26,8700,3000,900,Active
+E1048,Ola Visser,Sales,Business Developer,Junior Staff,Krakow,2022-09-10,7000,1500,600,Terminated
+E1049,Sem Jansen,Finance Operations,Finance Automation Developer,Junior Staff,Amsterdam,2021-10-12,5900,0,750,Active
+E1050,Ewa Visser,Finance Operations,AR Specialist,Junior Staff,Amsterdam,2020-07-22,6500,0,750,Active
+E1051,Ben Meijer,Finance Operations,AR Specialist,Middle Staff,Warsaw,2020-05-13,10500,0,880,Active
+E1052,Ben Zielinski,HR,HR Generalist,Junior Staff,Krakow,2018-07-31,7400,3000,375,Active
+E1053,Tomek Wojcik,Sales,Business Developer,Lead,Warsaw,2023-01-27,22300,2000,1680,Active
+E1054,Femke Brown,Sales,Sales Executive,Lead,Amsterdam,2019-07-04,24300,0,1680,Active
+E1055,Lars Walker,HR,Recruiter,Senior Staff,Remote,2018-11-07,17300,0,1600,Active
+E1056,Kasia Zielinski,Engineering,Backend Developer,Lead,Amsterdam,2019-12-15,21600,2500,1050,Active
+E1057,Piotr Wilson,Customer Success,Account Manager,Middle Staff,Warsaw,2019-08-28,12000,0,880,Active
+E1058,Leo Nowak,Finance Operations,Collections Analyst,Senior Staff,Warsaw,2025-09-06,17000,1500,1280,Active
+E1059,Lucas Jansen,Finance Operations,Credit Analyst,Senior Staff,Krakow,2025-06-28,16800,0,1280,Active
+E1060,Femke Kowalski,Sales,Business Developer,Middle Staff,Remote,2022-11-21,10400,0,550,Active
+E1061,Clara Zielinski,Engineering,Data Engineer,Middle Staff,Krakow,2023-03-22,9600,3000,1320,Active
+E1062,Sanne Brown,Customer Success,Account Manager,Junior Staff,Remote,2021-10-01,7300,2500,600,Active
+E1063,Nina Evans,Sales,Business Developer,Junior Staff,Warsaw,2020-01-23,7100,0,375,Active
+E1064,Piotr Nowak,Customer Success,Account Manager,Middle Staff,Krakow,2024-08-19,10400,0,880,Active
+E1065,Leo Walker,Customer Success,Onboarding Specialist,Middle Staff,Warsaw,2024-10-08,11200,0,1320,Active
+E1066,Ewa Smit,Customer Success,Onboarding Specialist,Junior Staff,Warsaw,2023-05-03,7400,0,375,Active
+E1067,Ben Thomas,Engineering,Backend Developer,Middle Staff,Warsaw,2020-07-26,10000,1500,550,Active
+E1068,Nina Meijer,Finance Operations,Finance Automation Developer,Senior Staff,Amsterdam,2024-02-20,15600,0,1920,Active
+E1069,Sem De Vries,Engineering,QA Engineer,Senior Staff,Krakow,2022-09-07,15100,1500,1280,Active
+E1070,Magda Meijer,Finance Operations,Credit Analyst,Middle Staff,Krakow,2019-01-18,12200,3000,550,Active
+E1071,Sophie Nowak,Engineering,QA Engineer,Middle Staff,Krakow,2025-12-21,12400,0,550,Active
+E1072,Daan Evans,HR,HR Generalist,Middle Staff,Krakow,2020-11-29,10700,2000,550,Active
+E1073,Mia Smit,Finance Operations,Collections Analyst,Middle Staff,Krakow,2026-05-01,8900,0,880,Active
+E1074,Clara Visser,Finance Operations,Credit Analyst,Junior Staff,Krakow,2019-08-18,6100,2500,375,Active
+E1075,Piotr Kowalski,Engineering,QA Engineer,Senior Staff,Krakow,2021-08-24,16100,0,800,Active
+E1076,Iris Brown,Engineering,QA Engineer,Junior Staff,Krakow,2024-11-16,5500,0,375,Active
+E1077,Tomek Lewandowski,Sales,Sales Executive,Senior Staff,Krakow,2022-10-12,19400,0,800,Active
+E1078,Ewa Meijer,Customer Success,Onboarding Specialist,Middle Staff,Warsaw,2019-03-13,13300,0,550,Active
+E1079,Ben Jansen,HR,HR Generalist,Junior Staff,Krakow,2021-05-25,8000,2000,750,Active
+E1080,Marek Mulder,Sales,Sales Executive,Senior Staff,Krakow,2023-12-30,19200,0,1600,Active
+E1081,Adam Roberts,Engineering,Backend Developer,Senior Staff,Remote,2025-05-12,16700,0,1280,Active
+E1082,Marek Mulder,HR,HR Generalist,Middle Staff,Krakow,2021-11-20,11000,0,1320,Active
+E1083,Adam Nowak,Finance Operations,AR Specialist,Middle Staff,Krakow,2024-03-20,11600,0,550,Active
+E1084,Oliver Smith,Finance Operations,AR Specialist,Senior Staff,Warsaw,2021-07-10,16000,0,1600,Active
+E1085,Adam Kowalski,Finance Operations,Finance Automation Developer,Senior Staff,Warsaw,2020-09-11,13600,0,1920,Active
+E1086,Milan Wojcik,Sales,Sales Ops Analyst,Middle Staff,Krakow,2020-05-02,10100,0,1320,Active
+E1087,Ethan Smith,Engineering,Frontend Developer,Junior Staff,Krakow,2018-11-12,6400,0,750,Active
+E1088,Clara Brown,Finance Operations,Team Lead,Senior Staff,Amsterdam,2022-03-10,10800,3000,1920,Active
+E1089,Nina Jansen,Customer Success,Onboarding Specialist,Junior Staff,Remote,2022-12-27,8700,0,750,Terminated
+E1090,Daan Kowalski,Finance Operations,Finance Automation Developer,Middle Staff,Remote,2020-09-30,11400,0,880,Active
+E1091,Marek Zielinski,Sales,Business Developer,Middle Staff,Krakow,2023-09-17,12100,2000,880,Active
+E1092,Ben Zielinski,Engineering,Fullstack Developer,Lead,Krakow,2024-10-19,18500,0,1050,Active
+E1093,Piotr Walker,Engineering,Frontend Developer,Middle Staff,Krakow,2024-10-08,10200,1500,880,Active
+E1094,Ethan Taylor,Engineering,QA Engineer,Junior Staff,Remote,2021-04-07,7400,0,600,Active
+E1095,Lars Bakker,Customer Success,Support Specialist,Lead,Amsterdam,2021-10-06,18000,1500,1050,Active
+E1096,Mia Jansen,Engineering,Fullstack Developer,Middle Staff,Amsterdam,2022-04-16,10200,1500,550,Active
+E1097,Anna Kaminski,Finance Operations,Finance Automation Developer,Junior Staff,Krakow,2019-11-06,6100,0,600,Active
+E1098,Ola Smith,Finance Operations,AR Specialist,Senior Staff,Krakow,2019-01-08,13500,0,1600,Active
+E1099,Femke Brown,IT Support,IT Support Specialist,Junior Staff,Krakow,2025-04-19,8300,3000,750,Active
+E1100,Tomek Visser,Marketing,Performance Marketer,Junior Staff,Warsaw,2025-10-05,6700,0,900,Active
+E1101,Milan Evans,Sales,Business Developer,Middle Staff,Krakow,2022-03-22,11000,0,550,Active
+E1102,Clara Kowalski,Finance Operations,Collections Analyst,Middle Staff,Warsaw,2025-01-23,9400,2000,550,Terminated
+E1103,Marek Evans,IT Support,System Administrator,Middle Staff,Krakow,2022-03-25,11300,0,1100,Active
+E1104,Anna Wilson,Sales,Sales Ops Analyst,Junior Staff,Amsterdam,2020-07-28,7900,3000,600,Active
+E1105,Sem Taylor,Sales,Sales Executive,Senior Staff,Remote,2021-07-01,19100,0,1280,Active
+E1106,Noor Visser,Engineering,Frontend Developer,Junior Staff,Remote,2023-04-02,6800,2000,900,Active
+E1107,Piotr Visser,Finance Operations,Finance Automation Developer,Middle Staff,Krakow,2020-09-29,9600,0,880,Active
+E1108,Tomek Thomas,Finance Operations,Finance Automation Developer,Junior Staff,Remote,2018-12-14,8100,3000,600,Active
+E1109,Ben Taylor,Marketing,Designer,Middle Staff,Krakow,2020-07-06,10300,0,1100,Active
+E1110,Ola Smith,Engineering,Fullstack Developer,Middle Staff,Krakow,2021-10-03,12000,0,1100,Active
+E1111,Sem Taylor,Finance Operations,Finance Automation Developer,Middle Staff,Krakow,2023-09-05,11000,0,550,Active
+E1112,James Wojcik,Engineering,Backend Developer,Middle Staff,Krakow,2025-01-28,12900,3000,1320,Active
+E1113,Lars Meijer,Customer Success,Onboarding Specialist,Junior Staff,Remote,2024-02-26,8000,2500,900,Active
+E1114,Femke Jansen,Finance Operations,AR Specialist,Middle Staff,Krakow,2023-12-13,11000,0,1100,Active
+E1115,Leo Evans,HR,People Analyst,Middle Staff,Krakow,2021-01-04,10900,0,550,Active
+E1116,Clara Roberts,Sales,Business Developer,Middle Staff,Amsterdam,2022-11-24,11900,2500,880,Active
+E1117,Noor Visser,Sales,Business Developer,Lead,Warsaw,2018-08-04,17800,0,2520,Active
+E1118,Jan Smith,Engineering,QA Engineer,Junior Staff,Remote,2024-06-21,7600,0,600,Active
+E1119,Magda Wojcik,Customer Success,Onboarding Specialist,Junior Staff,Krakow,2026-01-13,7400,0,600,Active
+E1120,Daan Mulder,Customer Success,Onboarding Specialist,Middle Staff,Remote,2020-04-26,8800,1500,880,Active
+E1121,Jan Smith,Customer Success,Account Manager,Junior Staff,Amsterdam,2019-02-01,7300,2000,900,Active
+E1122,James Wilson,Finance Operations,Finance Automation Developer,Junior Staff,Remote,2025-06-21,7200,0,600,Active
+E1123,Ewa De Vries,Engineering,Frontend Developer,Lead,Krakow,2025-07-08,20800,0,1050,Active
+E1124,Lucas Thomas,Finance Operations,Team Lead,Junior Staff,Krakow,2022-10-03,7900,0,750,Active
+E1125,Tomek Wojcik,Engineering,Fullstack Developer,Middle Staff,Krakow,2020-10-13,12900,0,1320,Active
+E1126,Piotr Bakker,Engineering,QA Engineer,Junior Staff,Krakow,2019-07-04,7800,1500,375,Active
+E1127,Tomek Evans,Finance Operations,AR Specialist,Middle Staff,Amsterdam,2020-04-26,13300,1500,1320,Active
+E1128,Jan Smit,Finance Operations,AR Specialist,Junior Staff,Krakow,2022-02-24,7300,2000,900,Active
+E1129,Kasia Taylor,Customer Success,Support Specialist,Middle Staff,Krakow,2020-07-04,8300,0,1320,Active
+E1130,Sem Wojcik,Finance Operations,AR Specialist,Junior Staff,Krakow,2025-11-12,8400,2000,900,Active
+E1131,Sem Roberts,Marketing,Content Specialist,Senior Staff,Amsterdam,2018-11-28,18800,3000,1280,Active
+E1132,Anna Roberts,Customer Success,Account Manager,Middle Staff,Krakow,2023-05-10,9800,3000,1100,Active
+E1133,Marek Jansen,Engineering,Data Engineer,Junior Staff,Warsaw,2024-04-30,6600,0,900,Active
+E1134,Adam Kaminski,Customer Success,Account Manager,Middle Staff,Warsaw,2024-03-27,12100,2000,550,Active
+E1135,Leo Visser,Finance Operations,Credit Analyst,Junior Staff,Krakow,2019-05-21,7300,0,900,Active
+E1136,Jan Wisniewski,IT Support,IT Support Specialist,Middle Staff,Krakow,2023-12-31,9300,2500,880,Active
+E1137,Ben De Vries,Engineering,Frontend Developer,Junior Staff,Warsaw,2024-12-08,6900,2000,750,Active
+E1138,Kasia Visser,HR,Recruiter,Junior Staff,Krakow,2026-02-02,7300,3000,375,Active
+E1139,Sanne Kowalski,Finance Operations,Collections Analyst,Senior Staff,Krakow,2025-07-15,15900,0,1920,Active
+E1140,Ewa Visser,Engineering,Fullstack Developer,Lead,Remote,2023-03-22,22400,3000,2520,Active
+E1141,Jan Kaminski,Engineering,QA Engineer,Middle Staff,Remote,2022-07-02,11400,2500,880,Active
+E1142,Noor Jansen,Marketing,Designer,Middle Staff,Remote,2025-07-15,13200,0,1320,Active
+E1143,Tomek Smith,Customer Success,Account Manager,Middle Staff,Krakow,2024-03-26,8900,0,880,Active
+E1144,Nina Jansen,Engineering,QA Engineer,Middle Staff,Warsaw,2022-01-11,10900,2500,1100,Active
+E1145,Iris Wisniewski,Finance Operations,Finance Automation Developer,Senior Staff,Krakow,2024-09-02,15700,0,800,Active
+E1146,Anna Roberts,Engineering,Data Engineer,Lead,Warsaw,2025-07-13,20000,3000,2100,Active
+E1147,Sanne Kowalski,Customer Success,Account Manager,Junior Staff,Krakow,2025-03-02,8500,0,900,Active
+E1148,Sanne Wilson,Engineering,Backend Developer,Senior Staff,Warsaw,2020-03-22,19800,2500,800,Active
+E1149,Leo Thomas,Finance Operations,AR Specialist,Lead,Krakow,2022-06-24,17000,3000,2100,Active
+E1150,Noor Roberts,HR,Recruiter,Senior Staff,Krakow,2023-06-06,17400,0,1600,Active
+E1151,Ewa Taylor,Marketing,Designer,Middle Staff,Krakow,2019-06-28,9400,3000,1100,Active
+E1152,Kasia Jansen,Finance Operations,Finance Automation Developer,Middle Staff,Krakow,2022-12-20,9000,0,1100,Active
+E1153,Milan De Vries,Customer Success,Support Specialist,Middle Staff,Remote,2021-07-12,11300,2500,550,Active
+E1154,Nina Thomas,Finance Operations,Team Lead,Middle Staff,Krakow,2025-08-03,11500,2500,1100,Active
+E1155,Leo Smith,Sales,Sales Executive,Middle Staff,Warsaw,2021-05-29,11500,0,880,Active
+E1156,Clara Wisniewski,Engineering,Frontend Developer,Middle Staff,Amsterdam,2023-04-27,10800,0,550,Active
+E1157,Lotte Wilson,Customer Success,Account Manager,Junior Staff,Krakow,2025-11-16,7100,0,750,Active
+E1158,Ola Wisniewski,Sales,Business Developer,Lead,Warsaw,2020-03-09,23100,0,1050,Active
+E1159,Kasia Roberts,Sales,Business Developer,Senior Staff,Warsaw,2019-08-06,17500,0,1600,Active
+E1160,Sanne Visser,Finance Operations,Team Lead,Middle Staff,Krakow,2024-08-30,11300,0,1320,Active
+E1161,Sanne Kaminski,Marketing,Designer,Middle Staff,Warsaw,2023-05-03,12600,0,1100,Active
+E1162,Femke Smith,Finance Operations,Team Lead,Junior Staff,Remote,2019-08-26,7900,1500,600,Active
+E1163,Iris Jansen,Finance Operations,Team Lead,Junior Staff,Warsaw,2023-07-30,7200,1500,375,Active
+E1164,Noor Roberts,Customer Success,Support Specialist,Middle Staff,Krakow,2022-05-24,11600,0,1320,Active
+E1165,Sophie Wisniewski,Engineering,Fullstack Developer,Junior Staff,Krakow,2023-08-20,8300,0,600,Active
+E1166,Emily Thomas,HR,HR Generalist,Middle Staff,Remote,2024-12-26,11200,2500,1320,Active
+E1167,Leo Bakker,HR,HR Generalist,Junior Staff,Krakow,2021-10-05,6700,0,600,Active
+E1168,Jan Brown,Engineering,Data Engineer,Middle Staff,Krakow,2018-08-09,10100,0,550,Active
+E1169,Lucas Brown,IT Support,System Administrator,Lead,Amsterdam,2022-06-30,24800,3000,2520,Active
+E1170,Sem Wilson,Engineering,Data Engineer,Middle Staff,Remote,2024-11-02,10800,3000,880,Active
+E1171,Milan Visser,Customer Success,Account Manager,Middle Staff,Amsterdam,2021-06-13,11600,0,1320,Active
+E1172,Ethan Taylor,Finance Operations,Collections Analyst,Junior Staff,Krakow,2024-08-30,8500,0,375,Active
+E1173,Ola Thomas,Marketing,Designer,Lead,Warsaw,2024-02-22,20000,0,1050,Active
+E1174,Magda Zielinski,Finance Operations,Collections Analyst,Junior Staff,Warsaw,2020-06-05,8200,2000,600,Active
+E1175,Oliver Wisniewski,Finance Operations,Team Lead,Senior Staff,Krakow,2025-05-08,15300,0,1600,Active
+E1176,Ben Jansen,Engineering,Data Engineer,Senior Staff,Amsterdam,2023-09-13,14800,0,1280,Active
+E1177,Ewa Evans,IT Support,IT Support Specialist,Middle Staff,Krakow,2024-06-19,11100,0,1100,Active
+E1178,Noor Walker,Marketing,Performance Marketer,Senior Staff,Remote,2023-07-03,14600,0,1280,Active
+E1179,Iris Visser,Sales,Sales Ops Analyst,Senior Staff,Krakow,2021-07-27,15100,2500,800,Active
