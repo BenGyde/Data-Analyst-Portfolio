@@ -1,128 +1,201 @@
-# Data Analyst Portfolio
-
-This repository showcases a selection of data analysis projects, primarily using Microsoft Excel and Power BI. Each project demonstrates key analytical skills, data visualization techniques, and business insights. Power Apps solutions are also included for business process improvement.
-
-## Table of Contents
-
-- [Excel Projects](#excel-projects)
-  - [Aging Balance Report](#aging-balance-report)
-  - [Block History Report](#block-history-report)
-  - [Direct Debit Report](#direct-debit-report)
-  - [VBA - Project Inventory](#vba---project-inventory)
-- [Power Apps Solutions](#power-apps-solutions)
-  - [Bulk Customer Filtering & CSV Export](#bulk-customer-filtering--csv-export) 
-  - [Task Manager](#power-apps-task-manager)
-- [Power BI Projects](#power-bi-projects)
-  - [Aging Balance Report](#power-bi---aging-balance-report)
-  - [Block History Report](#power-bi---block-history-report)
-- [Python Projects](#python-projects)
-  - [Overdue Forecast (SARIMAX)](#overdue-forecast-sarimax)
-  - [Overdue Probability (Logistic Regression)](#overdue-probability-logistic-regression)
-
+<div align="center">
+### Senior Digital Operations Data Analyst | Power Platform Developer
+ 
+*Turning messy finance data into automated tools, dashboards, and forecasts.*
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/bengyde)
+[![Email](https://img.shields.io/badge/Email-bengyde%40gmail.com-EA4335?style=for-the-badge)](mailto:bengyde@gmail.com)
+[![Location](https://img.shields.io/badge/Krak%C3%B3w%2C_Poland-grey?style=for-the-badge)](#)
+ 
+</div>
+---
+ 
+## Tech Stack
+ 
+<div align="center">
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![Excel + VBA](https://img.shields.io/badge/Excel_%2B_VBA-217346?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge)
+ 
+</div>
+---
+ 
+## About This Portfolio
+ 
+Real-world inspired **finance & operations analytics** projects covering the full spectrum:
+ 
+- **Reporting & Dashboards** — Excel and Power BI aging, block history, and payment reports
+- **Process Automation** — Power Apps tools that eliminate repetitive manual work
+- **Predictive Analytics** — Python forecasting and machine learning on receivables data
+> **Focus area:** Credit control, collections, and cash flow — where better data means faster payments.
+ 
+---
+ 
+## Projects at a Glance
+ 
+| # | Project | Tools | What It Solves |
+|---|---------|-------|----------------|
+| 1 | [Aging Balance Report](#aging-balance-report) | Excel | Which receivables are overdue, and by how long |
+| 2 | [Direct Debit Report](#direct-debit-report) | Excel | Payment performance and reconciliation gaps |
+| 3 | [Block History Report](#block-history-report) | Excel | Patterns in account block events over time |
+| 4 | [Project Inventory](#vba--project-inventory) | Excel + VBA | Tool ownership, continuity and support tracking |
+| 5 | [Aging Balance Dashboard](#aging-balance-dashboard) | Power BI | Interactive receivables and collections insights |
+| 6 | [Block History Dashboard](#block-history-dashboard) | Power BI | Trend analysis for operational decisions |
+| 7 | [Task Manager](#task-manager) | Power Apps | Team task tracking, deadlines and accountability |
+| 8 | [Bulk Filter & CSV Export](#bulk-customer-filtering--csv-export) | Power Apps + Power BI | One-click bulk account filtering and export |
+| 9 | [Overdue Forecast](#overdue-forecast-sarimax) | Python (SARIMAX) | Predicting future overdue amounts for cash flow |
+| 10 | [Overdue Probability](#overdue-probability-logistic-regression) | Python (ML) | Flagging invoices likely to become overdue |
+ 
+---
+ 
 ## Excel Projects
-
+ 
 ### Aging Balance Report
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20Aging%20Balance%20Report)
-
-<img width="1550" height="723" alt="Aging Balance Report" src="https://github.com/user-attachments/assets/dfed2b69-e582-4d06-b843-1b8fbd9ecafc" />
-
-**Description:**  
-This report analyzes outstanding balances, categorizing accounts based on how long invoices have remained unpaid. It helps identify overdue receivables and supports decision-making for collections.
-
+ 
+<img width="1550" alt="Aging Balance Report" src="https://github.com/user-attachments/assets/dfed2b69-e582-4d06-b843-1b8fbd9ecafc" />
+**Business problem:** Collections teams can't prioritize without knowing which invoices are overdue and for how long.
+ 
+**Solution:** Categorizes outstanding balances into aging buckets, surfacing overdue receivables and supporting collection decisions.
+ 
+**Skills:** Pivot analysis · Conditional formatting · Aging bucket logic · AR reporting
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20Aging%20Balance%20Report)
+ 
 ---
-
+ 
 ### Direct Debit Report
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20Direct%20Debit%20Report)
-
-<img width="1657" height="719" alt="Overview" src="https://github.com/user-attachments/assets/6e6de6fa-1a48-4c26-9df5-1b8ba9230bec" />
-
-**Description:**  
-This report tracks direct debit transactions, providing summaries and insights into payment performance. It supports financial reconciliation and highlights areas for process improvement.
-
+ 
+<img width="1657" alt="Direct Debit Report" src="https://github.com/user-attachments/assets/6e6de6fa-1a48-4c26-9df5-1b8ba9230bec" />
+**Business problem:** Payment failures and reconciliation gaps stay hidden in raw transaction data.
+ 
+**Solution:** Tracks direct debit transactions with summaries and insights into payment performance, supporting reconciliation and process improvement.
+ 
+**Skills:** Data summarization · Financial reconciliation · KPI reporting
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20Direct%20Debit%20Report)
+ 
 ---
-
+ 
 ### Block History Report
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20Block%20History%20Report)
-
-<img width="1763" height="727" alt="Overview" src="https://github.com/user-attachments/assets/694b42c3-b42f-4b94-9d58-1d33256f82fb" />
-
-**Description:**  
-Analyzes block events over time, identifying patterns and trends. Useful for operational reporting and historical analysis.
-
+ 
+<img width="1763" alt="Block History Report" src="https://github.com/user-attachments/assets/694b42c3-b42f-4b94-9d58-1d33256f82fb" />
+**Business problem:** Account block events lack historical visibility, making trend analysis impossible.
+ 
+**Solution:** Analyzes block events over time to identify patterns and trends for operational reporting.
+ 
+**Skills:** Time-series analysis · Trend identification · Operational reporting
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20Block%20History%20Report)
+ 
 ---
-
-### VBA - Project Inventory
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20VBA%20-%20Project%20Inventory)
-
-<img width="1868" height="709" alt="Project Inventory" src="https://github.com/user-attachments/assets/a1348a81-384e-45a8-9553-67bf32216429" />
-
-**Description:**  
-Tracks who built what, for whom, and the current status helps ensure continuity, accountability, and efficient support—especially for critical tools.
-
+ 
+### VBA – Project Inventory
+ 
+<img width="1868" alt="Project Inventory" src="https://github.com/user-attachments/assets/a1348a81-384e-45a8-9553-67bf32216429" />
+**Business problem:** When tool builders leave, knowledge leaves with them — critical tools become unsupported.
+ 
+**Solution:** Tracks who built what, for whom, and its current status — ensuring continuity, accountability, and efficient support.
+ 
+**Skills:** VBA automation · UserForms · Governance and documentation
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Excel%20-%20VBA%20-%20Project%20Inventory)
+ 
 ---
-
+ 
 ## Power BI Projects
-
-### Power BI - Aging Balance Report
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20BI%20-%20Aging%20Balance%20Report)
-
-<img width="1274" height="714" alt="Overview" src="https://github.com/user-attachments/assets/9ca6cf81-1ae9-4e67-949f-bce8042d9fb5" />
-
-**Description:**  
-A dynamic Power BI dashboard analyzing outstanding balances by aging periods. This interactive report enables exploration of receivables, overdue accounts, and provides actionable business insights that drive collections and cash flow management.
-
+ 
+### Aging Balance Dashboard
+ 
+<img width="1274" alt="Power BI Aging Balance" src="https://github.com/user-attachments/assets/9ca6cf81-1ae9-4e67-949f-bce8042d9fb5" />
+**Business problem:** Static reports can't answer follow-up questions — stakeholders need to explore the data themselves.
+ 
+**Solution:** Interactive dashboard analyzing outstanding balances by aging period, enabling self-service exploration of receivables and overdue accounts that drives collections and cash flow management.
+ 
+**Skills:** DAX · Data modeling · Interactive visuals · Drill-through design
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20BI%20-%20Aging%20Balance%20Report)
+ 
 ---
-
-### Power BI - Block History Report
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20BI%20-%20Block%20History%20Report)
-
-<img width="1275" height="715" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/5535ad76-af34-4485-8af2-5543bc3d67f9" />
-
-**Description:**  
-A Power BI dashboard that analyzes block history events over time, providing interactive insights into patterns, trends, and operational performance. Useful for business users seeking to understand historical context and improve operational decision-making.
-
+ 
+### Block History Dashboard
+ 
+<img width="1275" alt="Power BI Block History" src="https://github.com/user-attachments/assets/5535ad76-af34-4485-8af2-5543bc3d67f9" />
+**Business problem:** Business users need historical context on block events without waiting for analyst-built reports.
+ 
+**Solution:** Interactive dashboard for exploring block event patterns, trends, and operational performance over time.
+ 
+**Skills:** DAX · Time intelligence · Dashboard UX · Storytelling with data
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20BI%20-%20Block%20History%20Report)
+ 
 ---
-
+ 
 ## Power Apps Solutions
-
-### Power Apps Task Manager
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20Apps%20-%20Task%20manager)
-
-<img width="1088" height="610" alt="App screenshot" src="https://github.com/user-attachments/assets/c721e6ef-36e5-484b-b903-87f3af4f6ab7" />
-
-**Description:**  
-A Power Apps-based solution designed for teams to track tasks, deadlines, and assignments. 
-This tool improves accountability and organization, ensuring teams never miss deadlines and always know task statuses.
-
+ 
+### Task Manager
+ 
+<img width="1088" alt="Task Manager App" src="https://github.com/user-attachments/assets/c721e6ef-36e5-484b-b903-87f3af4f6ab7" />
+**Business problem:** Task tracking in scattered emails and spreadsheets means missed deadlines and unclear ownership.
+ 
+**Solution:** A Power Apps solution for teams to track tasks, deadlines, and assignments — improving accountability and ensuring statuses are always visible.
+ 
+**Skills:** Canvas apps · SharePoint integration · UX design · Workflow logic
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20Apps%20-%20Task%20manager)
+ 
 ---
-
+ 
 ### Bulk Customer Filtering & CSV Export
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20Apps%20-%20Power%20BI%20-%20Bulk%20Filter%20and%20CSV%20Exporter)
-
-<img width="1403" height="789" alt="Dashboard" src="https://github.com/user-attachments/assets/9df02c52-514b-4af3-864b-ac45406ff7a3" />
-
-**Description:**  
-A Power Apps-based solution enbeded in Power Bi designed for teams to track filter accounts and export to .csv with the press of a button
-
+ 
+<img width="1403" alt="Bulk Filter and Export" src="https://github.com/user-attachments/assets/9df02c52-514b-4af3-864b-ac45406ff7a3" />
+**Business problem:** Filtering hundreds of accounts and exporting them manually wastes hours of analyst time.
+ 
+**Solution:** A Power Apps tool embedded directly in Power BI — filter accounts in bulk and export to `.csv` with a single click.
+ 
+**Skills:** Power Apps + Power BI integration · Bulk data handling · One-click automation
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Power%20Apps%20-%20Power%20BI%20-%20Bulk%20Filter%20and%20CSV%20Exporter)
+ 
 ---
-
-
+ 
 ## Python Projects
-
-### Overdue forecast (SARIMAX)
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20Overdue%20forecast%20(SARIMAX))
-
-<img width="1274" height="715" alt="Dashboard" src="https://github.com/user-attachments/assets/29cfc579-c878-4309-aaa8-446e38e0c23e" />
-
-**Description:**  
-Finance teams need visibility into future overdue amounts to manage cash flow and credit risk. Raw invoice-level data is difficult to analyze directly, and manual forecasting is time-consuming and inconsistent.
-
+ 
+### Overdue Forecast (SARIMAX)
+ 
+<img width="1274" alt="SARIMAX Forecast Dashboard" src="https://github.com/user-attachments/assets/29cfc579-c878-4309-aaa8-446e38e0c23e" />
+**Business problem:** Finance teams need visibility into future overdue amounts to manage cash flow and credit risk — but manual forecasting is slow and inconsistent.
+ 
+**Solution:** Time-series forecasting model (SARIMAX) that predicts future overdue amounts from invoice-level data.
+ 
+**Skills:** Python · pandas · statsmodels · Time-series forecasting · Seasonality analysis
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20Overdue%20forecast%20(SARIMAX))
+ 
 ---
-
-### Overdue probability (Logistic Regression)
-[View Project](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20Overdue%20probability%20(Logistic%20Regression))
-
-<img width="1254" height="727" alt="Overdue probability dashboard" src="https://github.com/user-attachments/assets/56b967c7-17d6-4006-a39d-bb384ee8fd4c" />
-
-**Description:**  
-Finance teams need to identify which invoices are likely to become overdue to proactively manage credit risk and collections. Manual rules are often simplistic and hard to maintain.
+ 
+### Overdue Probability (Logistic Regression)
+ 
+<img width="1254" alt="Overdue Probability Dashboard" src="https://github.com/user-attachments/assets/56b967c7-17d6-4006-a39d-bb384ee8fd4c" />
+**Business problem:** Manual rules for spotting risky invoices are simplistic and hard to maintain.
+ 
+**Solution:** Machine learning model (logistic regression) that scores each invoice's probability of becoming overdue — enabling proactive credit risk and collections management.
+ 
+**Skills:** Python · scikit-learn · Classification modeling · Feature engineering · Risk scoring
+ 
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20Overdue%20probability%20(Logistic%20Regression))
+ 
+---
+ 
+## Contact
+ 
+<div align="center">
+**Open to opportunities in Data Analytics, Power Platform Development & Finance Automation**
+ 
+[LinkedIn](https://www.linkedin.com/in/bengyde) · [bengyde@gmail.com](mailto:bengyde@gmail.com)
+ 
+</div>
