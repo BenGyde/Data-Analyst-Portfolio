@@ -192,7 +192,7 @@ Real-world inspired **finance & operations analytics** projects covering the ful
  
 **Skills:** Python · Plotly Dash · pandas · Interactive callbacks · Synthetic data generation
  
-[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20Pulse%20HR%20Dashboard)
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20HR%20Analytics)
  
 ---
  
