@@ -1,30 +1,25 @@
-<div align="center">
-### Senior Digital Operations Data Analyst | Power Platform Developer
+<h3 align="center">Senior Digital Operations Data Analyst | Power Platform Developer</h3>
  
-*Turning messy finance data into automated tools, dashboards, and forecasts.*
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/bengyde)
-[![Email](https://img.shields.io/badge/Email-bengyde%40gmail.com-EA4335?style=for-the-badge)](mailto:bengyde@gmail.com)
-[![Location](https://img.shields.io/badge/Krak%C3%B3w%2C_Poland-grey?style=for-the-badge)](#)
- 
-</div>
----
- 
+<p align="center"><em>Turning messy finance data into automated tools, dashboards, and forecasts.</em></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bengyde"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:bengyde@gmail.com"><img src="https://img.shields.io/badge/Email-bengyde%40gmail.com-EA4335?style=for-the-badge" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Krak%C3%B3w%2C_Poland-grey?style=for-the-badge" alt="Kraków, Poland">
+</p>
+
 ## Tech Stack
  
-<div align="center">
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
-![Excel + VBA](https://img.shields.io/badge/Excel_%2B_VBA-217346?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge)
- 
-</div>
----
- 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" alt="Power Apps">
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" alt="Power Automate">
+  <img src="https://img.shields.io/badge/Excel_%2B_VBA-217346?style=for-the-badge" alt="Excel + VBA">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge" alt="Alteryx">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge" alt="SAP">
+</p>
+
 ## About This Portfolio
  
 Real-world inspired **finance & operations analytics** projects covering the full spectrum:
@@ -34,7 +29,6 @@ Real-world inspired **finance & operations analytics** projects covering the ful
 - **Predictive Analytics** — Python forecasting and machine learning on receivables data
 > **Focus area:** Credit control, collections, and cash flow — where better data means faster payments.
  
----
  
 ## Projects at a Glance
  
@@ -51,7 +45,6 @@ Real-world inspired **finance & operations analytics** projects covering the ful
 | 9 | [Overdue Forecast](#overdue-forecast-sarimax) | Python (SARIMAX) | Predicting future overdue amounts for cash flow |
 | 10 | [Overdue Probability](#overdue-probability-logistic-regression) | Python (ML) | Flagging invoices likely to become overdue |
  
----
  
 ## Excel Projects
  
@@ -193,9 +186,5 @@ Real-world inspired **finance & operations analytics** projects covering the ful
  
 ## Contact
  
-<div align="center">
-**Open to opportunities in Data Analytics, Power Platform Development & Finance Automation**
- 
-[LinkedIn](https://www.linkedin.com/in/bengyde) · [bengyde@gmail.com](mailto:bengyde@gmail.com)
- 
-</div>
+<p align="center"><strong>Open to opportunities in Data Analytics, Power Platform Development &amp; Finance Automation</strong></p>
+<p align="center"><a href="https://www.linkedin.com/in/bengyde">LinkedIn</a> · <a href="mailto:bengyde@gmail.com">bengyde@gmail.com</a></p>
