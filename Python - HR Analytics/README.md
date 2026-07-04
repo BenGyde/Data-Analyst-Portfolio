@@ -15,8 +15,7 @@ Getting a single live view — filterable by location — usually means manual e
 - **Leave Management**: Leave requests by type, plus a pending approvals queue.
 - **Compensation Insights**: Average monthly compensation by job level (base, allowance, bonus).
 - **Performance Monitoring**: 12-month average performance score trend.
-## Example Screenshot
-<img width="1550" height="900" alt="Pulse HR Dashboard" src="https://github.com/user-attachments/assets/PLACEHOLDER-screenshot" />
+
 ## File reference
  
 | Name | File     | Description                       |
