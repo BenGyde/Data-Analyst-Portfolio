@@ -17,6 +17,10 @@ Career Journal Copilot acts as a personal AI career coach that helps users captu
 
 ---
 
+<img width="864" height="498" alt="chat view" src="https://github.com/user-attachments/assets/fe63d5cb-9833-4974-8b38-c7d66701a982" />
+
+---
+
 ## Example
 
 ### Input
