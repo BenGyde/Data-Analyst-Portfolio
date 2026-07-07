@@ -5,7 +5,7 @@
 ![AI](https://img.shields.io/badge/AI-Generative_AI-green)
 ![Platform](https://img.shields.io/badge/Platform-Microsoft_365-orange)
 
-An AI-powered career journaling assistant that turns rough daily notes into structured, performance-review-ready achievements.
+A personal AI career coach that helps professionals capture accomplishments, identify impact, document learning, and build performance-review-ready career records throughout the year.
 
 ---
 
@@ -13,7 +13,7 @@ An AI-powered career journaling assistant that turns rough daily notes into stru
 
 Most people forget their best work long before performance review season.
 
-Career Journal Copilot helps users capture achievements as they happen and build a searchable record of impact throughout the year.
+Career Journal Copilot acts as a personal AI career coach that helps users capture achievements, identify impact, document learning, and build a searchable record of contributions throughout the year.
 
 ---
 
@@ -72,37 +72,6 @@ The assistant automatically:
 
 ✅ Creates review-ready entries
 
-
-### Entry 1
-
-**Title:** Aligned with Finance on Topics
-
-**Impact:** Improved alignment and understanding between teams.
-
-**Category:** Collaboration
-
----
-
-### Entry 2
-
-**Title:** Fixed Reporting Issues
-
-**Impact:** Improved data accuracy and reliability.
-
-**Category:** Operational Excellence
-
----
-
-### Entry 3
-
-**Title:** Explored New AI Idea
-
-**Impact:** Created potential for future automation and efficiency gains.
-
-**Category:** Innovation
-
-</details>
-
 ---
 
 ## How It Works
@@ -122,6 +91,7 @@ flowchart LR
 
 - Daily achievement capture
 - Impact identification
+- Learning capture
 - Evidence suggestions
 - Achievement categorization
 - Monthly summaries
@@ -155,43 +125,14 @@ Performance reviews focus on impact.
 
 ---
 
-## Technology
+## Concepts Demonstrated
 
-- Microsoft 365 Copilot
-- Copilot Studio Lite
 - Prompt Engineering
-- Microsoft Loop
-- AI-Assisted Knowledge Management
-
----
-
-## Lessons Learned
-
-- Simplicity drives adoption.
-- Small achievements matter.
-- Monthly journals work better than structured databases for most users.
-- AI is most valuable when it helps identify impact, not just rewrite text.
-
----
-
-## Future Roadmap
-
-### Current
-
-✅ Achievement capture
-
-✅ Impact identification
-
-✅ Monthly journaling
-
-✅ Performance review support
-
-### Future
-
-- Automated reminders
-- Activity-based achievement suggestions
-- AI-generated annual reviews
-- Career growth insights
+- AI Coaching
+- Knowledge Management
+- Human-in-the-Loop AI
+- User Experience Design
+- Career Development Support
 
 ---
 
