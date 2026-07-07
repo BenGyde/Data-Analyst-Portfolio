@@ -29,8 +29,36 @@ Worked on a new AI idea.
 
 ### Output
 
-<img width="770" alt="Example Output" src="https://github.com/user-attachments/assets/252f9619-21fc-42b0-b8b7-f5aacf46b0b1" />
-
+```text
+Entry 1
+Title: Aligned with Finance on Topics
+Date: 2026-07-07
+Achievement: Spoke with the finance team to discuss and clarify reporting topics.
+Impact: Improved alignment and understanding between teams. Helped avoid confusion and ensure accurate work going forward.
+Category: Collaboration
+Evidence: Meeting notes, emails, Teams messages with finance team
+Tags: finance, alignment, communication, stakeholders
+```
+```text
+Entry 2
+Title: Fixed Reporting Issues
+Date: 2026-07-07
+Achievement: Identified and fixed issues in reporting.
+Impact: Improved data accuracy and reliability. Reduced risk of incorrect insights being shared.
+Category: Operational Excellence
+Evidence: Updated reports, tickets, before/after data comparison
+Tags: reporting, data quality, issue resolution, accuracy
+```
+```text
+Entry 3
+Title: Explored New AI Idea
+Date: 2026-07-07
+Achievement: Worked on a new AI-based idea.
+Impact: Created potential for automation or smarter processes. Supports innovation and future efficiency gains.
+Category: Innovation
+Evidence: Notes, draft concept, prototype, discussions
+Tags: AI, innovation, automation, ideas
+```
 
 The assistant automatically:
 
@@ -44,8 +72,6 @@ The assistant automatically:
 
 ✅ Creates review-ready entries
 
-<details>
-<summary>View Full Example Output</summary>
 
 ### Entry 1
 
