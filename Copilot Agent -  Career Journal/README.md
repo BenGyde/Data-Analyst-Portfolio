@@ -173,7 +173,6 @@ Performance reviews focus on impact.
 
 - AI Product Design
 - Prompt Engineering
-- UX Design
 - Knowledge Management
 - Business Process Improvement
 - AI-Assisted Productivity
