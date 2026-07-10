@@ -25,6 +25,7 @@ Real-world inspired **finance & operations analytics** projects covering the ful
 - **Reporting & Dashboards** — Excel and Power BI aging, block history, and payment reports
 - **Process Automation** — Power Apps tools that eliminate repetitive manual work
 - **Predictive Analytics** — Python forecasting and machine learning on receivables data
+- **AI Agents** — Copilot-based tools that turn everyday notes into structured insight
 > **Focus area:** Credit control, collections, and cash flow — where better data means faster payments.
  
  
@@ -43,6 +44,7 @@ Real-world inspired **finance & operations analytics** projects covering the ful
 | 9 | [Overdue Forecast](#overdue-forecast-sarimax) | Python (SARIMAX) | Predicting future overdue amounts for cash flow |
 | 10 | [Overdue Probability](#overdue-probability-logistic-regression) | Python (ML) | Flagging invoices likely to become overdue |
 | 11 | [HR Analytics Dashboard](#hr-analytics-dashboard) | Python (Dash) | Live HR analytics across attendance, leave, and comp |
+| 12 | [Career Journal Copilot](#career-journal-copilot) | Copilot Agent (M365) | Turning daily notes into review-ready achievement records |
  
  
 ## Excel Projects
@@ -194,6 +196,22 @@ Real-world inspired **finance & operations analytics** projects covering the ful
  
 [**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Python%20-%20HR%20Analytics)
  
+---
+
+## AI Agent Projects
+
+### Career Journal Copilot
+
+<img width="864" alt="Career Journal Copilot chat view" src="https://github.com/user-attachments/assets/fe63d5cb-9833-4974-8b38-c7d66701a982" />
+
+**Business problem:** Most people forget their best work long before performance review season.
+
+**Solution:** A Copilot-based AI career coach that turns daily notes into separated, impact-focused achievement entries — categorized and evidence-tagged, ready for monthly summaries and annual reviews.
+
+**Skills:** Prompt engineering · AI product design · Knowledge management · Human-in-the-loop AI
+
+[**View Project →**](https://github.com/BenGyde/Data-Analyst-Portfolio/tree/main/Copilot%20Agent%20-%20%20Career%20Journal)
+
 ---
  
 ## Contact
